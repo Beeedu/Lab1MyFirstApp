@@ -6,6 +6,8 @@ import android.content.ContentValues;
 import android.os.Bundle;
 import android.util.Log;
 
+// Ilya Kozorezov
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
