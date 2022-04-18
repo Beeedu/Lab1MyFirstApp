@@ -6,7 +6,7 @@ import android.content.ContentValues;
 import android.os.Bundle;
 import android.util.Log;
 
-// Ilya Kozorezov
+// Ilya Kozorezov was here on April 18 2022
 
 public class MainActivity extends AppCompatActivity {
 
